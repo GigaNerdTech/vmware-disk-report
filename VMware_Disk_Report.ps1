@@ -1,11 +1,10 @@
-﻿# Pure Disk Reporter
+﻿# vwmare Disk Reporter
 # For Pure Storage, vSphere 6.5, Red Hat Enterprise Linux 7 on XFS, Windows Server
 # Written by Joshua Woleben
 # 4/18/19
 # Requirements:
 # PowerCLI for VMware
-# PureStorage PowerShell SDK for Pure array
-# Authentication credentials for Pure, vSphere and RHEL root
+# Authentication credentials for vSphere
 
 # Import required modules
 Import-Module VMware.VimAutomation.Core
